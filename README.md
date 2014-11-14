@@ -1,7 +1,9 @@
 MonthView
 =========
 
-
+Sample
+========
+<img src="https://github.com/zcweng/MonthView/blob/master/MonthView/device-2014-11-15-004408.png" />
 
 Usage
 =========
