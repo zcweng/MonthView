@@ -6,7 +6,7 @@ MonthView
 
 Sample
 ========
-<img src="https://github.com/zcweng/MonthView/blob/master/MonthView/device-2014-11-15-004408.png" />
+<img src="https://github.com/zcweng/MonthView/blob/master/MonthView/device-2014-11-15-004408.png" width="500" height="833"/>
 
 Usage
 =========
